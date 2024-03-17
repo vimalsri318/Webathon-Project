@@ -1,0 +1,115 @@
+.imgs {
+    width: 1426px;
+}
+
+.container {
+    position: relative;
+    display: inline-block;
+    /* Ensures container fits the image */
+}
+
+.bt {
+    font-size: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #C9F471;
+    color: rgb(27, 27, 27);
+    padding: 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: -520px;
+    width: 200px;
+    margin-left: 100px;
+    margin-bottom: 1000px;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.jl1 {
+    width: 800px;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+
+.pj {
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 30px;
+}
+
+.newpro {
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 170px;
+    margin-top: 0px;
+    color: #a09f9f;
+    padding-top: 80px;
+    font-weight: 530;
+}
+
+.pro4d {
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    display: flex;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 0 24px;
+    overflow-x: auto;
+    white-space: nowrap;
+    margin-left: 100px;
+}
+
+.pro4d::-webkit-scrollbar {
+    display: none;
+}
+
+.pro4m {
+    flex: 0 0 auto;
+    padding: 4px;
+    padding-bottom: 2px;
+    transition: transform .2s;
+    padding: 30px;
+}
+
+.prom4i {
+    height: 350px;
+    width: 550px;
+    margin-bottom: 0px;
+    line-height: 3px;
+    border-radius: 25px;
+    box-shadow: 2px 4px 12px rgb(201, 201, 201);
+    scroll-snap-align: start;
+}
+
+.pro4m:hover {
+    transform: scale(1.02);
+}
+
+.footer {
+    background-color: #F4F7F0;
+    color: rgb(37, 36, 36);
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.footer-links {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: rgb(32, 31, 31);
+    text-decoration: none;
+    margin: 0 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.copy {
+    font-size: 14px;
+}
