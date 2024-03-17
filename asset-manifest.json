@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Webathon-Project/static/css/main.c2e90617.css",
+    "main.js": "/Webathon-Project/static/js/main.e9b892b2.js",
+    "static/media/Screenshot 2024-03-17 at 3.43.20 PM.png": "/Webathon-Project/static/media/Screenshot 2024-03-17 at 3.43.20 PM.7d1036268a1a80aecffb.png",
+    "static/media/Screenshot 2024-03-17 at 3.11.45 PM.png": "/Webathon-Project/static/media/Screenshot 2024-03-17 at 3.11.45 PM.901c988527c71032c6a1.png",
+    "static/media/Screenshot 2024-03-17 at 3.37.29 PM.png": "/Webathon-Project/static/media/Screenshot 2024-03-17 at 3.37.29 PM.11c32553b177c6331b6d.png",
+    "static/media/search.png": "/Webathon-Project/static/media/search.89b828b5f944e6d54a5b.png",
+    "static/media/instagram-2-1-logo-svgrepo-com.svg": "/Webathon-Project/static/media/instagram-2-1-logo-svgrepo-com.ee19c58ba2635ab425e90563f0585bb6.svg",
+    "static/media/linkedin-linked-in-svgrepo-com.svg": "/Webathon-Project/static/media/linkedin-linked-in-svgrepo-com.f39ade07467fbbf1d7cf8611880d489a.svg",
+    "index.html": "/Webathon-Project/index.html",
+    "main.c2e90617.css.map": "/Webathon-Project/static/css/main.c2e90617.css.map",
+    "main.e9b892b2.js.map": "/Webathon-Project/static/js/main.e9b892b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e90617.css",
+    "static/js/main.e9b892b2.js"
+  ]
+}
